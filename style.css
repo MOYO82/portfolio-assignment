@@ -1,0 +1,68 @@
+*{
+    padding: 0;
+    margin: 5px;
+    width: 100%;
+    border-radius: 10%;
+    background-color: aqua;
+}
+
+.portfolio_container {
+    text-align: left
+}
+
+.portfolio_content {
+    text-align: end;
+    margin-top: 5px;
+}
+img {
+    width:30%;
+    height:25%;
+    align-content: flex-end;
+    margin-top: 50px;
+    text-align: left;
+}
+
+.portfolio_right {
+    text-align: justify;
+    margin-top: 10px;
+    padding:30px;
+    height: 50%;
+    margin-top: 10px;
+}
+
+button {
+    width:10%;
+    border: 2px;
+    margin: 10px;
+    color: brown;
+}
+
+.portfolio_right {
+    padding:30px;
+    height: 50%;
+    margin-top: 10px;
+}
+   
+.portfolio_left h1 {
+    padding:0px;
+    border: 2px;
+    height: 50%;
+    margin: 10px;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.portfolio_right p {
+    padding:0px;
+    border: 2px;
+    height: 50%;
+    margin: 10px;
+}
+p {
+    padding:5px;
+    border: 2px;
+    height: 50%;
+    margin: 10px; 
+    width: 40%; 
+    text-align: justify;
+}
